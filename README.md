@@ -7,7 +7,7 @@ I have taken the following courses:
 
 ---
 
-## 🧮 Year 1 Fall + Winter
+## 📘 Year 1 Fall + Winter
 - **MAT137**: Calculus with Proofs (Calculus 1 and 2)
 
 ---
@@ -27,12 +27,12 @@ I have taken the following courses:
 
 ---
 
-## 🧭 Year 2 Fall + Winter
+## 🍁 Year 2 Fall + Winter
 - **MAT237**: Multivariable Calculus with Proofs (Calculus 3)
 
 ---
 
-## 💻 Year 2 Fall
+## ❄️ Year 2 Fall
 - **CSC207**: Software Design  
 - **CSC236**: Introduction to the Theory of Computation  
 - **CSC258**: Computer Organization  
