@@ -1,7 +1,6 @@
 # studyNotes
 My study notes during my time in University of Toronto.  
 
-# Current major: 
 ## Double Specialist in Computer Science and Data Science
 
 I have taken the following courses:  
